@@ -1,0 +1,3 @@
+begin
+  witeln('hello');
+end.
